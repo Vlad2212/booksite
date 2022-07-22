@@ -40,7 +40,7 @@
                     <a href="pages.php" class="header__link section__link">Pages</a>
                   </li>
                   <li>
-                    <a href="" class="header__link section__link">Contact Us</a>
+                    <a href="contacts.php" class="header__link section__link">Contact Us</a>
                   </li>
                 </ul>
                 <div class="header__case">
